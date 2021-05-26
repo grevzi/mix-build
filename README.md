@@ -1,4 +1,4 @@
-#Laravel mix build
+# Laravel mix build
 
 Basic build using laravel mix. There was added in build setup:
 
